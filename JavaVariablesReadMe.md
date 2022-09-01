@@ -7,6 +7,7 @@ To indicate the storage area, each variable should be given a unique name (ident
 Task:
 
     1. Create the following variables(don't assign any value) of a 'Candidate' and print the values,
+        
         id --> integer,
 
         name --> String,
