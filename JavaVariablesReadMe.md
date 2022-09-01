@@ -21,7 +21,7 @@ Task:
         isMinor --> boolean,
 
 
-    2.Assign values for the variables and print.
+    2.Assign values for the variables and print them.
         
         
         
